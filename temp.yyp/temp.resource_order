@@ -1,0 +1,12 @@
+{
+  "FolderOrderSettings":[],
+  "ResourceOrderSettings":[
+    {"name":"Quit_Handler","order":1,"path":"objects/Quit_Handler/Quit_Handler.yy",},
+    {"name":"Room2","order":1,"path":"rooms/Room2/Room2.yy",},
+    {"name":"Play_Change","order":1,"path":"sprites/Play_Change/Play_Change.yy",},
+    {"name":"Quit_Change","order":3,"path":"sprites/Quit_Change/Quit_Change.yy",},
+    {"name":"Quit","order":2,"path":"sprites/Quit/Quit.yy",},
+    {"name":"Sprite1_1","order":1,"path":"sprites/Sprite1_1/Sprite1_1.yy",},
+    {"name":"Sprite1","order":3,"path":"sprites/Sprite1/Sprite1.yy",},
+  ],
+}
