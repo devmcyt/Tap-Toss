@@ -13,7 +13,7 @@ if (mouse_check) {
         var _pred_x = x + (_start_vx * t);
         var _pred_y = y + (_start_vy * t) + (0.5 * gravity_check * (t * t));
         
-        draw_set_color(c_white);
+        draw_set_color(c_black);
         draw_circle(_pred_x, _pred_y, 3, false);
     }
 }

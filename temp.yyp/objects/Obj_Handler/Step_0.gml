@@ -26,3 +26,7 @@ if (mouse_check) {
 		gravity = gravity_check;
     }
 }
+
+if (sound_cooldown > 0) {
+    sound_cooldown--;
+}
