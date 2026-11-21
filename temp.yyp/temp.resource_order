@@ -1,12 +1,17 @@
 {
-  "FolderOrderSettings":[],
+  "FolderOrderSettings":[
+    {"name":"Rooms","order":2,"path":"folders/Rooms.yy",},
+  ],
   "ResourceOrderSettings":[
+    {"name":"Obj_Handler","order":2,"path":"objects/Obj_Handler/Obj_Handler.yy",},
+    {"name":"Obj_tramp","order":3,"path":"objects/Obj_tramp/Obj_tramp.yy",},
     {"name":"Quit_Handler","order":1,"path":"objects/Quit_Handler/Quit_Handler.yy",},
-    {"name":"Room2","order":1,"path":"rooms/Room2/Room2.yy",},
+    {"name":"The_Game","order":1,"path":"rooms/The_Game/The_Game.yy",},
+    {"name":"Chr_OBJ","order":5,"path":"sprites/Chr_OBJ/Chr_OBJ.yy",},
     {"name":"Play_Change","order":1,"path":"sprites/Play_Change/Play_Change.yy",},
     {"name":"Quit_Change","order":3,"path":"sprites/Quit_Change/Quit_Change.yy",},
     {"name":"Quit","order":2,"path":"sprites/Quit/Quit.yy",},
-    {"name":"Sprite1_1","order":1,"path":"sprites/Sprite1_1/Sprite1_1.yy",},
-    {"name":"Sprite1","order":3,"path":"sprites/Sprite1/Sprite1.yy",},
+    {"name":"Sprite1","order":4,"path":"sprites/Sprite1/Sprite1.yy",},
+    {"name":"Tramp_Check","order":6,"path":"sprites/Tramp_Check/Tramp_Check.yy",},
   ],
 }
