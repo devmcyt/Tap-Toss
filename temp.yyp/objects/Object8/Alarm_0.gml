@@ -1,0 +1,1 @@
+sprite_index = Tramp_Right_Run;

@@ -1,0 +1,1 @@
+global.collision_counter = 0;
