@@ -1,2 +1,3 @@
 draw_self();
-draw_text(150, 100, $"Current Score: {global.collision_counter}");
+draw_set_colour(c_red)
+draw_text(1166, 701, $"Current Score: {global.collision_counter}");

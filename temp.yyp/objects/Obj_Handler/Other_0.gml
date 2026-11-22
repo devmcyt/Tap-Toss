@@ -1,6 +1,5 @@
-x = x_check;
-y = y_check;
+// Reset the score to zero only when falling out of bounds/failing
+global.collision_counter = 0;
 
-speed  = 0;
-gravity =0;
-mouse_check = false;
+// Restart the room
+room_restart();
