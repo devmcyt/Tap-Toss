@@ -2,7 +2,7 @@
   "$GMSprite":"v2",
   "%Name":"Loop",
   "bboxMode":0,
-  "bbox_bottom":231,
+  "bbox_bottom":118,
   "bbox_left":92,
   "bbox_right":159,
   "bbox_top":24,

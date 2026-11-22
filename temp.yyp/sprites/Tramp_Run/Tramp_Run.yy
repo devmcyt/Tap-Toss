@@ -2,7 +2,7 @@
   "$GMSprite":"v2",
   "%Name":"Tramp_Run",
   "bboxMode":0,
-  "bbox_bottom":191,
+  "bbox_bottom":208,
   "bbox_left":28,
   "bbox_right":243,
   "bbox_top":76,
@@ -20,6 +20,7 @@
   "HTile":false,
   "layers":[
     {"$GMImageLayer":"","%Name":"70f29954-2e7d-4234-9f17-3f8819603915","blendMode":0,"displayName":"default","isLocked":false,"name":"70f29954-2e7d-4234-9f17-3f8819603915","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"45832c35-e005-41fb-b331-a199be95b3a3","blendMode":0,"displayName":"Layer 1","isLocked":false,"name":"45832c35-e005-41fb-b331-a199be95b3a3","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
   "name":"Tramp_Run",
   "nineSlice":null,

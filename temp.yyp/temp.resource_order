@@ -1,6 +1,8 @@
 {
   "FolderOrderSettings":[
+    {"name":"group1","order":16,"path":"folders/group1.yy",},
     {"name":"Rooms","order":2,"path":"folders/Rooms.yy",},
+    {"name":"group1","order":5,"path":"folders/Rooms/group1.yy",},
     {"name":"Sounds","order":3,"path":"folders/Sounds.yy",},
   ],
   "ResourceOrderSettings":[
@@ -26,10 +28,16 @@
     {"name":"Chr_OBJ","order":5,"path":"sprites/Chr_OBJ/Chr_OBJ.yy",},
     {"name":"Loop","order":14,"path":"sprites/Loop/Loop.yy",},
     {"name":"Next_Level","order":7,"path":"sprites/Next_Level/Next_Level.yy",},
+    {"name":"objdia","order":14,"path":"sprites/objdia/objdia.yy",},
+    {"name":"objhor","order":9,"path":"sprites/objhor/objhor.yy",},
+    {"name":"objiad","order":15,"path":"sprites/objiad/objiad.yy",},
+    {"name":"objver","order":10,"path":"sprites/objver/objver.yy",},
     {"name":"Play_Change","order":1,"path":"sprites/Play_Change/Play_Change.yy",},
     {"name":"Quit_Change","order":3,"path":"sprites/Quit_Change/Quit_Change.yy",},
     {"name":"Quit","order":2,"path":"sprites/Quit/Quit.yy",},
     {"name":"Sprite1","order":4,"path":"sprites/Sprite1/Sprite1.yy",},
+    {"name":"Sprite22","order":1,"path":"sprites/Sprite22/Sprite22.yy",},
+    {"name":"stand","order":15,"path":"sprites/stand/stand.yy",},
     {"name":"Tramp_Check","order":6,"path":"sprites/Tramp_Check/Tramp_Check.yy",},
     {"name":"Tramp_Left_Check","order":6,"path":"sprites/Tramp_Left_Check/Tramp_Left_Check.yy",},
     {"name":"Tramp_Left_Run","order":7,"path":"sprites/Tramp_Left_Run/Tramp_Left_Run.yy",},
